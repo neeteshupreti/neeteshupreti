@@ -18,6 +18,14 @@ I am a backend-focused developer who loves turning complex data into structured,
 
 ---
 
+### 📈 GitHub Stats
+![Neetesh's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=neeteshupreti&show_icons=true&theme=tokyonight&count_private=true)
+
+### 🌍 Top Languages
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neeteshupreti&layout=compact&theme=tokyonight)
+
+---
+
 ### 📫 Let's Connect!
 * **LinkedIn:** https://linkedin.com/in/niteshupreti
 * **Email:** niteshupreti@outlook.com
