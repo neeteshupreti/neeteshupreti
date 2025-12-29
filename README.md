@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nitesh. 👋
 
 ### 👨‍💻 Full-Stack Developer | Python & Django Enthusiast | System Architect
 
