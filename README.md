@@ -12,7 +12,7 @@ I am a backend-focused developer who loves turning complex data into structured,
 | :--- | :--- |
 | **Languages** | Python (Expertise), C++, JavaScript, HTML5, CSS3 |
 | **Frameworks** | Django, Django REST Framework, Bootstrap |
-| **Databases** | PostgreSQL, SQLite |
+| **Databases** | SQLite |
 | **DevOps & Tools** | Git, Linux, Virtualenv |
 | **Currently Learning** | Docker / React |
 
