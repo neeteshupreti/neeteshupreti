@@ -19,17 +19,13 @@ I am a backend-focused developer who loves turning complex data into structured,
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Expert), JavaScript, HTML5, CSS3 |
+| **Languages** | Python (Expertise), C++, JavaScript, HTML5, CSS3 |
 | **Frameworks** | Django, Django REST Framework, Bootstrap |
 | **Databases** | PostgreSQL, SQLite |
 | **DevOps & Tools** | Git, Linux, Virtualenv |
 | **Currently Learning** | Docker / React |
 
 ---
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=neeteshupreti&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeteshupreti&layout=compact&theme=tokyonight)
 
 ---
 
