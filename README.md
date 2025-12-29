@@ -6,15 +6,6 @@ I am a backend-focused developer who loves turning complex data into structured,
 
 ---
 
-### 🚀 Featured Project: KhelStats
-**KhelStats** is a comprehensive sports statistics platform designed to manage and visualize tournament data, player performance, and match results.
-* **Backend:** Engineered with **Python & Django**, utilizing custom ORM queries for performance.
-* **API:** Built a structured **REST API** using Django REST Framework (DRF) for cross-platform data access.
-* **Admin Tools:** Developed custom **Django Admin** extensions and management commands to automate data population and streamline moderation.
-* **Frontend:** Integrated responsive UI components with HTML, CSS, and JavaScript.
-
----
-
 ### 🛠 My Tech Stack
 
 | Category | Tools & Technologies |
@@ -24,8 +15,6 @@ I am a backend-focused developer who loves turning complex data into structured,
 | **Databases** | PostgreSQL, SQLite |
 | **DevOps & Tools** | Git, Linux, Virtualenv |
 | **Currently Learning** | Docker / React |
-
----
 
 ---
 
