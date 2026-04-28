@@ -27,8 +27,9 @@ I am a backend-focused developer who loves turning complex data into structured,
 ---
 
 ### 📫 Let's Connect!
+* **Website:** niteshupreti.com.np
 * **LinkedIn:** https://linkedin.com/in/niteshupreti
-* **Email:** niteshupreti@outlook.com
+* **Email:** contact@niteshupreti.com.np
 
 ---
 
