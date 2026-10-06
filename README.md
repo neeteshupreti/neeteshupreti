@@ -1,25 +1,32 @@
-# Hi there, I'm Nitesh. 👋
+# Hi there, I'm Nitesh Upreti. 👋
 
-### 👨‍💻 Full-Stack Developer | Python & Django Enthusiast | System Architect
+### 👨‍💻 Flutter & Django Architect | Cybersecurity Enthusiast
 
-I am a backend-focused developer who loves turning complex data into structured, scalable web applications. My development philosophy focuses on clean code, automated workflows, and building robust APIs.
+I am a software developer with a strong foundation in backend systems, cross-platform app development, and system administration. Currently, I am prioritizing **Flutter & Dart** for cross-platform engineering while pivoting heavily into **Cybersecurity**. My approach centers around secure architecture, clean code, automated workflows, and high-performance applications.
 
 ---
 
-### 🛠 My Tech Stack
+### 🎯 Current Focus & Goals
+- 📱 **Primary Tech Focus:** Deepening expertise in cross-platform state management & app architecture with Flutter.
+- 🛡️ **New Frontier:** Actively transitioning into **Cybersecurity** (Network Security, Application Security & System Hardening).
+- ⚙️ **Systems & Environment:** Linux Power User & Docker Containerization.
+
+---
+
+### 🛠 Tech Stack & Ecosystem
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Expertise), C++, JavaScript, HTML5, CSS3 |
-| **Frameworks** | Django, Django REST Framework, Bootstrap |
-| **Databases** | SQLite |
-| **DevOps & Tools** | Git, Linux, Virtualenv |
-| **Currently Learning** | Docker / React |
+| **Languages** | Python, Dart, C, C++, JavaScript, HTML5, CSS3 |
+| **Frameworks & Libraries** | Flutter, Django, Django REST Framework, Flame Engine, Bootstrap |
+| **Databases & ORM** | Firebase, SQLite |
+| **DevOps & Linux** | Docker, Git, GitHub, Linux Admin, Bash |
+| **Dev Tools & IDEs** | Zed Editor, VS Code |
 
 ---
 
 ### 📈 GitHub Stats
-![Neetesh's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=neeteshupreti&show_icons=true&theme=tokyonight&count_private=true)
+![Nitesh's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=neeteshupreti&show_icons=true&theme=tokyonight&count_private=true)
 
 ### 🌍 Top Languages
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neeteshupreti&layout=compact&theme=tokyonight)
@@ -27,25 +34,10 @@ I am a backend-focused developer who loves turning complex data into structured,
 ---
 
 ### 📫 Let's Connect!
-* **Website:** https://niteshupreti.com.np
-* **LinkedIn:** https://linkedin.com/in/niteshupreti
-* **Email:** contact@niteshupreti.com.np
+* **Portfolio:** [niteshupreti.com.np](https://niteshupreti.com.np)
+* **LinkedIn:** [linkedin.com/in/niteshupreti](https://linkedin.com/in/niteshupreti)
+* **Email:** [contact@niteshupreti.com.np](mailto:contact@niteshupreti.com.np)
 
 ---
 
-> "Automating the boring stuff so I can focus on building the awesome stuff."
-
-<!--
-**neeteshupreti/neeteshupreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Building secure, scalable systems today, so we can defend the web of tomorrow."*
