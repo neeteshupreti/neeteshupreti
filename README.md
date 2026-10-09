@@ -8,7 +8,7 @@ I am a software developer with a strong foundation in backend systems, cross-pla
 
 ### 🎯 Current Focus & Goals
 - 📱 **Primary Tech Focus:** Deepening expertise in cross-platform state management & app architecture with Flutter.
-- 🛡️ **New Frontier:** Actively transitioning into **Cybersecurity** (Network Security, Application Security & System Hardening).
+- 🛡️ **New Frontier:** Actively transitioning into **Cybersecurity** (Blue Team).
 - ⚙️ **Systems & Environment:** Linux Power User & Docker Containerization.
 
 ---
